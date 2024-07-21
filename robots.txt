@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://haingul.github.io/sitemap
+Sitemap: https://haingul.github.io/app/sitemap
+Sitemap: https://haingul.github.io/assets/sitemap
+Sitemap: https://haingul.github.io/css/sitemap
+Sitemap: https://haingul.github.io/includes/sitemap
+Sitemap: https://haingul.github.io/item/sitemap
+Sitemap: https://haingul.github.io/src/sitemap
